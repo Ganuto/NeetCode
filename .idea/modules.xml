@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasDuplicate/HasDuplicate.iml" filepath="$PROJECT_DIR$/HasDuplicate/HasDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/NeetCode.iml" filepath="$PROJECT_DIR$/NeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparseArrays/SparseArrays.iml" filepath="$PROJECT_DIR$/SparseArrays/SparseArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
