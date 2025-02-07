@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/NeetCode.iml" filepath="$PROJECT_DIR$/NeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparseArrays/SparseArrays.iml" filepath="$PROJECT_DIR$/SparseArrays/SparseArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidAnagram/ValidAnagram.iml" filepath="$PROJECT_DIR$/ValidAnagram/ValidAnagram.iml" />
     </modules>
