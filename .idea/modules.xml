@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysAndHashing/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/arraysAndHashing/ContainsDuplicate/ContainsDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/NeetCode.iml" filepath="$PROJECT_DIR$/NeetCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/PlusMinus/PlusMinus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SparseArrays/SparseArrays.iml" filepath="$PROJECT_DIR$/SparseArrays/SparseArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StringEncodeAndDecode/StringEncodeAndDecode.iml" filepath="$PROJECT_DIR$/StringEncodeAndDecode/StringEncodeAndDecode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ValidAnagram/ValidAnagram.iml" filepath="$PROJECT_DIR$/ValidAnagram/ValidAnagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysAndHashing/PlusMinus/PlusMinus.iml" filepath="$PROJECT_DIR$/arraysAndHashing/PlusMinus/PlusMinus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysAndHashing/SparseArrays/SparseArrays.iml" filepath="$PROJECT_DIR$/arraysAndHashing/SparseArrays/SparseArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysAndHashing/StringEncodeAndDecode/StringEncodeAndDecode.iml" filepath="$PROJECT_DIR$/arraysAndHashing/StringEncodeAndDecode/StringEncodeAndDecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysAndHashing/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/arraysAndHashing/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysAndHashing/ValidAnagram/ValidAnagram.iml" filepath="$PROJECT_DIR$/arraysAndHashing/ValidAnagram/ValidAnagram.iml" />
     </modules>
   </component>
 </project>
